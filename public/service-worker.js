@@ -66,7 +66,7 @@ const FILES_TO_CACHE = [
 
 event.respondWith(
     caches.match(event.request).then(function (response) {
-        return response || fetch(evt.request);
+        return response || fetch(event.request);
     })
 );
 });
