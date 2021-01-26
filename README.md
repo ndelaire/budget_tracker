@@ -24,7 +24,7 @@ To use the app all you have to do is:
 * Open the app
 * Add transactions
 
-Or you can use the deployed Heroku link [here](https://workout-tracker-nd.herokuapp.com/)!
+Or you can use the deployed Heroku link [here](https://budgettracker-nd.herokuapp.com/)!
 
 ## Demo
 
