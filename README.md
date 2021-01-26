@@ -2,7 +2,7 @@
 
 ## Description
 
-With this Budget Tracker application, a user is able to add expenses and deposits to their budget with or without a connection. When they are online, the Budget Tracker populates their total right away. When they are offline, they can still add transactions, and when they are online again, the total will populate. W
+With this Budget Tracker application, a user is able to add expenses and deposits to their budget with or without a connection. When they are online, the Budget Tracker populates their total right away. When they are offline, they can still add transactions, and when they are online again, the total will populate. 
 
 
 
